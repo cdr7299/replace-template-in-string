@@ -1,5 +1,3 @@
-// const str = "My name is {{name}}. And my age is {{age}}. My friend's name is {{sk}}";
-
 export const replaceWithJSON = (obj, str) => {
   const parsedObj = JSON.parse(obj);
 
